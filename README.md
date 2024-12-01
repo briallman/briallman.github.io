@@ -1,12 +1,5 @@
 
 
-- [ ] 4. If it looks good, commit and push all changed files to GitHub. 
-
-(You will need to repeat steps 2 and 4 every time you wish to update the book online.)
-
-### Next steps
-
-- Add content to `index.qmd` as desired.
 
 - Add content to `projects.qmd` as desired.
 

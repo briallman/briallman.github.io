@@ -2,14 +2,10 @@
 title: "Projects"
 ---
 
-## Project 1
-
-## Project 2
-
 ## California Wildfires (2022)
 
-![1 Facilities](images/1%20Facilities.pdf){ width=600px style="margin-bottom: 20px;" }
+<embed src="images/1%20Facilities.pdf" width="600" height="800" type="application/pdf">
 
-![2 PM and Drought](images/2%20PM%20and%20Drought.pdf){ width=600px style="margin-bottom: 20px;" }
+<embed src="images/2%20PM%20and%20Drought.pdf" width="600" height="800" type="application/pdf">
 
-![3 Tree Mortality](images/3%20Tree%20Mortality.pdf){ width=600px style="margin-bottom: 20px;" }
+<embed src="images/3%20Tree%20Mortality.pdf" width="600" height="800" type="application/pdf">
