@@ -3,17 +3,22 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: images/grad_pic-02.JPEG
 ---
 
-:::{#me}
+::: {#me}
+Hello! I’m Briana Allman, a graduate student at Virginia Commonwealth University pursuing a Master of Environmental Studies, complemented by a certificate in Geographic Information Systems (GIS). My work is driven by a deep passion for using data to address pressing environmental challenges and to bridge the gap between scientific research and public understanding. I specialize in harnessing the power of GIS and data visualization to create engaging, accessible tools that foster informed decision-making and spark meaningful conversations about sustainability.
 
-## Goals
+Throughout my academic journey, I’ve had the privilege of contributing to impactful projects with organizations like the Virginia Department of Environmental Quality and the U.S. Fish and Wildlife Service. My focus has been on habitat management and spatial analysis, particularly using GIS to support conservation initiatives and environmental protection efforts. From analyzing stream temperature impairments to improving habitat conservation strategies, my goal is to apply my skills to drive positive, science-based change in the world.
 
-## Education
+Beyond the classroom and research, I’m an avid outdoor enthusiast with a love for fishing, hiking, and kayaking. These activities keep me grounded and inspire my commitment to preserving the natural world for future generations. Whether in the field or in front of a map, I’m always seeking new ways to blend my technical expertise with my passion for conservation.
 
-## Experience
+I’m excited to connect with others who share a passion for environmental stewardship and GIS technology. Feel free to reach out for collaborations, project opportunities, or just to talk about the latest trends in environmental research!
 
+
+[Connect with me on LinkedIn!](https://www.linkedin.com/in/brianaallman/)
 :::
 
-Thanks for checking out my web site!
+
+
+
