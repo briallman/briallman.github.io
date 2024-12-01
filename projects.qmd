@@ -6,4 +6,10 @@ title: "Projects"
 
 ## Project 2
 
-## Project 3
+## California Wildfires (2022)
+
+![](images/1 Facilities.pdf)
+
+![](images/2 PM and Drought.pdf)
+
+![](images/3 Tree Mortality.pdf)
