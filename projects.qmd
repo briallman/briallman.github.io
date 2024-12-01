@@ -2,8 +2,56 @@
 title: "Projects"
 ---
 
-## California Wildfires (2022)
+## Posters:
 
-## ![](images/facilitiespng.png)
+![](images/FINAL BWC FINAL POSTER (1).png)
+
+## ArcGIS Online:
+
+GWWA Habitat Management Challenge
+
+::: {style="border: 2px none #ccc; padding: 20px; margin-bottom: 10px;"}
+<iframe src="https://experience.arcgis.com/experience/7d999be86ad4414996151904511460f0" width="1200" height="1000" style="border: none; display: block;">
+
+</iframe>
+:::
+
+## ArcGIS Pro (Maps):
+
+### Drive Time Analysis
+
+![](images/Drive%20Time%20Analysis%20Map%20(1).png)
+
+### Functional Classification Change Proposal
+
+![](images/Page%2011-01.png)
+
+### Comprehensive Plan (Warsaw, VA)
+
+![](images/Page%202.png)
+
+![](images/Page%203.png)
+
+![](images/Page%204.png)
+
+![](images/Page%205.png)
+
+![](images/Page%206.png)
+
+![](images/Page%207.png)
+
+![](images/Page%208.png)
+
+![](images/Page%209.png)
+
+![](images/Page%2010.png)
+
+### Geo-referencing Parcels
+
+![](images/parcels.png)
+
+### California Wildfires
+
+![](images/facilitiespng.png)
 
 ![](images/pm25.png)

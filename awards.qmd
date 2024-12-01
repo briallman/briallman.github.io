@@ -3,9 +3,31 @@ title: "Awards"
 about:
   id: aw
   template: broadside
-  image: images/collage.png
+  image: images/collage1-04.png
 ---
 
 I have been fortunate to receive the following recognitions for my academic and professional contributions:
 
+<p>
+
+On December 9, 2023, I was honored with the Outstanding Undergraduate Award for the Center for Environmental Studies at Virginia Commonwealth University. This recognition was a testament to my dedication to academic excellence, where I maintained a perfect 4.0 GPA and earned a place on the Dean’s List every semester. Faculty commended my consistent ranking within the top 10% of my classes, my hardworking nature, and my delightful presence in the classroom. They highlighted my effervescent, can-do attitude as a boon to both the learning environment and my peers. My leadership skills made me a sought-after preceptor for multiple courses, and I was one of the first to volunteer for and warmly welcome incoming Environmental Studies students during the Fall 2023 orientation. Committed to continual self-improvement, particularly in GIS technology, I applied these skills in several independent studies and during my internship with the Virginia Department of Environmental Quality’s Water Monitoring Division. Faculty expressed gratitude that I chose to continue my academic journey into graduate school, allowing me to further mentor Environmental Studies students.
+
+<p>
+
+<p>
+
+In 2024, I was awarded the prestigious Charles Edward McNoldy Memorial College Student Award at VAMLIS' GeoCon in Williamsburg, Virginia. This accolade honors students from Virginia universities who excel in Geographic Information Systems (GIS) or related fields, celebrating their academic achievements and practical contributions to geospatial science. Named after Mr. Charles Edward McNoldy—a founding member of VAMLIS and a distinguished professional in land surveying, engineering, and GIS—the award reflects his legacy of innovation and service. Mr. McNoldy’s leadership spanned 27 years in the U.S. Army, where he earned the Meritorious Service Medal, as well as his tenure as the Director of the Office of Mapping and Information Resources for Prince William County.
+
+<p>
+
+<p>
+
+Receiving this award was particularly meaningful as I had the opportunity to present my work at the conference. My presentation showcased a data hub I developed in ArcGIS Experience Builder for the Golden-winged Warbler Working Group in collaboration with the U.S. Fish and Wildlife Service. This innovative tool streamlined data sharing and analysis for habitat management projects, highlighting my ability to apply GIS technology to real-world conservation efforts. The experience affirmed my commitment to advancing geospatial science and underscored the importance of GIS in environmental sustainability and biodiversity protection.
+
+<p>
+
+<p>
+
 Thank you for taking the time to learn more about my journey. I am continually inspired by the opportunities I have received and aim to contribute meaningfully to environmental conservation and GIS innovation!
+
+<p>
