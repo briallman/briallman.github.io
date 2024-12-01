@@ -8,8 +8,8 @@ title: "Projects"
 
 ## California Wildfires (2022)
 
-![](images/1 Facilities.pdf)
+![1 Facilities](images/1%20Facilities.pdf){ width=600px }
 
-![](images/2 PM and Drought.pdf)
+![2 PM and Drought](images/2%20PM%20and%20Drought.pdf){ width=600px }
 
-![](images/3 Tree Mortality.pdf)
+![3 Tree Mortality](images/3%20Tree%20Mortality.pdf){ width=600px }
