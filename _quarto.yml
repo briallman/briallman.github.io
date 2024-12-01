@@ -7,11 +7,12 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: About Me
       - projects.qmd
+      - resume.qmd
     tools:
-      - icon: twitter
-        href: https://twitter.com/
+      - icon: linkedin
+        href: https://www.linkedin.com/in/brianaallman
       - icon: github
         href: https://github.com/briallman/briallman.github.io
   page-footer:
