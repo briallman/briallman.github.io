@@ -1,0 +1,11 @@
+---
+title: "Awards"
+about:
+  id: aw
+  template: broadside
+  image: images/collage.png
+---
+
+I have been fortunate to receive the following recognitions for my academic and professional contributions:
+
+Thank you for taking the time to learn more about my journey. I am continually inspired by the opportunities I have received and aim to contribute meaningfully to environmental conservation and GIS innovation!

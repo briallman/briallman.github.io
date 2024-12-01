@@ -9,12 +9,15 @@ website:
       - href: index.qmd
         text: About Me
       - projects.qmd
+      - education.qmd
+      - awards.qmd
       - resume.qmd
+      
     tools:
       - icon: linkedin
         href: https://www.linkedin.com/in/brianaallman
-      - icon: github
-        href: https://github.com/briallman/briallman.github.io
+      - icon: envelope
+        href: mailto:brianaloftus11@gmail.com
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
     left: "&copy; Copyright 2023, Briana Allman"
