@@ -3,11 +3,13 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: images/gradpicspace-02.png
+  image: images/spacelogo-03.png
 ---
 
 ::: {#me}
-Hello! I’m Briana Allman, a graduate student at Virginia Commonwealth University pursuing a Master of Environmental Studies, complemented by a certificate in Geographic Information Systems (GIS). My work is driven by a deep passion for using data to address pressing environmental challenges and to bridge the gap between scientific research and public understanding. I specialize in harnessing the power of GIS and data visualization to create engaging, accessible tools that foster informed decision-making and spark meaningful conversations about sustainability.
+Hello!
+
+I’m Briana Allman, a graduate student at Virginia Commonwealth University pursuing a Master of Environmental Studies, complemented by a certificate in Geographic Information Systems (GIS). My work is driven by a deep passion for using data to address pressing environmental challenges and to bridge the gap between scientific research and public understanding. I specialize in harnessing the power of GIS and data visualization to create engaging, accessible tools that foster informed decision-making and spark meaningful conversations about sustainability.
 
 Throughout my academic journey, I’ve had the privilege of contributing to impactful projects with organizations like the Virginia Department of Environmental Quality and the U.S. Fish and Wildlife Service. My focus has been on habitat management and spatial analysis, particularly using GIS to support conservation initiatives and environmental protection efforts. From analyzing stream temperature impairments to improving habitat conservation strategies, my goal is to apply my skills to drive positive, science-based change in the world.
 
