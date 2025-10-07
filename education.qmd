@@ -14,8 +14,6 @@ title: "Education"
 
 </p>
 
-BIOL 604: Research Integrity
-
 ENVS 603 Environmental Research Methods
 
 ENVS 654: Environmental Remote Sensing
@@ -23,6 +21,8 @@ ENVS 654: Environmental Remote Sensing
 ENVS 625: Spatial Database Management and GIS Modelling
 
 ENVS 693: Internship in Environmental Studies
+
+ENVS 591: Teaching Practicum
 
 ##### Fall 2024
 
